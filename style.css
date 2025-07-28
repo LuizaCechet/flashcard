@@ -78,7 +78,7 @@ body {
 }
 
 .flashcard-back {
-    background-color: blue; 
+    background-color: pink; 
     color: #fff;
     transform: rotateY(180deg); 
 }
